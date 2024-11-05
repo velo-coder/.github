@@ -1,4 +1,4 @@
-# VELOCODER 🚴‍♂️👨‍💻
+# VELOCODER 
 hey there, welcome to the page of velocoder.de
 this page is all about cycling and coding. but since we´re on github, especially about coding ig   
 
